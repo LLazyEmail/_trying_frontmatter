@@ -32,59 +32,60 @@ https://stackblitz.com/edit/github-cfnp14?file=README.md
 ---
 
 
-Korean Barbecue Beef | Pork Schnitzel | Bahn Mi Meatball Skewers
+# Korean Barbecue Beef | Pork Schnitzel | Bahn Mi Meatball Skewers
+
+
+
 
 [](https://www.nomoretogo.com/weekly-menu/)
 
 [](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe1.jpeg)
-
-
       
-      ## Chipotle Cream Skillet Chicken
-      ### over Rice and Snap Peas
+## Chipotle Cream Skillet Chicken
+### over Rice and Snap Peas
       
       
   []()  
   []()
       https://www.nomoretogo.com/weekly-menu/
       https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe2.jpeg
-      Pork Schnitzel
-      with German Spaetzle and Green Beans
+## Pork Schnitzel
+### with German Spaetzle and Green Beans
 
 []()
-[]()
-      href: 'https://www.nomoretogo.com/weekly-menu/',
-      src: 'https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe3.jpeg',
-      //------
-      title: 'Bahn Mi Meatball Skewers',
-      text: 'yummy',
+[](    https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe3.jpeg)
+https://www.nomoretogo.com/weekly-menu/
+
+
+## Bahn Mi Meatball Skewers
+   
     
    []()
-   []()
+   [](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe4.jpeg)
     
-      href: 'https://www.nomoretogo.com/weekly-menu/',
-      src: 'https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe4.jpeg',
+  https://www.nomoretogo.com/weekly-menu/
+  
       
-      title: 'Korean Barbecue Beef with Sesame Rice Noodles',
-      text: 'and Spicy Pickled Cucumbers and Carrots',
+## Korean Barbecue Beef with Sesame Rice Noodles
+### and Spicy Pickled Cucumbers and Carrots
     
     []()
-    []()
+    [](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe5.jpeg)
     
-      href: 'https://www.nomoretogo.com/weekly-menu/',
-      src: 'https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe5.jpeg',
+    https://www.nomoretogo.com/weekly-menu/
+     
       
-      title: 'Grilled Salmon with Chipotle Cream Sauce',
-      text: 'over Potato Poblano Hash and Broccolini',
+## Grilled Salmon with Chipotle Cream Sauce
+### over Potato Poblano Hash and Broccolini
 
     []()
-    []()
+    [](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe6.jpeg)
 
 
-      href: 'https://www.nomoretogo.com/weekly-menu/',
-      src: 'https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe6.jpeg',
-      //------
-      title: 'Saucy Grilled Shrimp',
-      text: 'and a Corn and Radish Salad with Avocado Dressing',
-    []()
-    []()
+      https://www.nomoretogo.com/weekly-menu/',
+      
+      
+      ## Saucy Grilled Shrimp      
+      ### and a Corn and Radish Salad with Avocado Dressing
+      
+    
