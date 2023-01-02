@@ -16,7 +16,7 @@ https://mdxjs.com/guides/frontmatter/
 
 https://stackblitz.com/edit/github-hrpoqm?file=pages/index.mdx
 
-
+https://github.com/jonschlinkert/gray-matter
 
 
 
