@@ -8,7 +8,9 @@
 // import { stream } from 'unified-stream';
 
 
-const matter = require('gray-matter');
+// const matter = require('gray-matter');
+
+import matter from 'gray-matter';
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 
@@ -21,13 +23,13 @@ const STRING_SOURCE_PATH = './src/source.md';
 const STRING_NMTG_PATH = './src/source.md';
 const STRING_NMTG_MDX_PATH = './src/source.md';
 
-const sourceFile = readSourceFile('./src/source.md');
+// const sourceFile = 
+const fileContents = readSourceFile(STRING_SOURCE_PATH);
+
+const { data, content } = matter(fileContents);
 
 
-
-
-
-
+console.log(matter('---\ntitle: Front Matter\n---\nThis is content.'));
 
 
 
