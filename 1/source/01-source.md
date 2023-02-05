@@ -20,54 +20,42 @@ Stacey, Sloane, and the No More To-Go Team
 ### over Rice and Snap Peas
       
 
-[]()  
-[]()
-https://www.nomoretogo.com/weekly-menu/
-https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe2.jpeg
-      
+[](https://www.nomoretogo.com/weekly-menu/)  
+[](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe2.jpeg)
+  
 ## Pork Schnitzel
 ### with German Spaetzle and Green Beans
 
-[]()
-[](    https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe3.jpeg)
-https://www.nomoretogo.com/weekly-menu/
 
+[](https://www.nomoretogo.com/weekly-menu/)
+[](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe3.jpeg)
 
 ## Bahn Mi Meatball Skewers
-   
-    
-[]()
+       
+[](https://www.nomoretogo.com/weekly-menu/)
 [](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe4.jpeg)
 
-https://www.nomoretogo.com/weekly-menu/
+
   
       
 ## Korean Barbecue Beef with Sesame Rice Noodles
 ### and Spicy Pickled Cucumbers and Carrots
-    
-[]()
-[](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe5.jpeg)
 
-https://www.nomoretogo.com/weekly-menu/
-     
-      
+
+[](https://www.nomoretogo.com/weekly-menu/)
+[](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe5.jpeg)
+   
 ## Grilled Salmon with Chipotle Cream Sauce
 ### over Potato Poblano Hash and Broccolini
 
-[]()
+
+[](https://www.nomoretogo.com/weekly-menu/)
 [](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe6.jpeg)
-
-
-https://www.nomoretogo.com/weekly-menu/
-      
       
 ## Saucy Grilled Shrimp      
 ### and a Corn and Radish Salad with Avocado Dressing
 
     
-
-
-
 
 ### Ingredients
 

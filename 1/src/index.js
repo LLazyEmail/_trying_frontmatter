@@ -18,18 +18,35 @@ const readSourceFile = (fileName) => {
   return readFileSync(fileName, { encoding: 'utf-8' });
 };
 
-const STRING_SOURCE_PATH = './src/source.md';
+const STRING_SOURCE_PATH = '../source/simple.md';
 
-const STRING_NMTG_PATH = './src/source.md';
-const STRING_NMTG_MDX_PATH = './src/source.md';
+const STRING_NMTG_PATH = '../source/01-source.md';
+
+const STRING_NMTG_MDX_PATH = '../source/04-source.mdx';
+// ../src/source.md';
 
 // const sourceFile = 
 const fileContents = readSourceFile(STRING_SOURCE_PATH);
 
+
+const fileContents_nmtg = readSourceFile(STRING_NMTG_PATH);
+const fileContents_mdx = readSourceFile(STRING_NMTG_MDX_PATH);
+
+
+
 const { data, content } = matter(fileContents);
 
 
-console.log(matter('---\ntitle: Front Matter\n---\nThis is content.'));
+
+
+
+// console.log(matter(fileContents_mdx));
+console.log(matter(fileContents_nmtg).content);
+
+
+// console.log(
+//   matter('---\ntitle: Front Matter\n---\nThis is content.')
+//   );
 
 
 
