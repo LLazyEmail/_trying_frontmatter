@@ -22,6 +22,9 @@ const STRING_SOURCE_PATH = '../source/simple.md';
 
 const STRING_NMTG_PATH = '../source/01-source.md';
 
+const STRING_NMTG_PATH2 = '../source/03-source-front-matter.md';
+
+
 const STRING_NMTG_MDX_PATH = '../source/04-source.mdx';
 // ../src/source.md';
 
@@ -30,6 +33,9 @@ const fileContents = readSourceFile(STRING_SOURCE_PATH);
 
 
 const fileContents_nmtg = readSourceFile(STRING_NMTG_PATH);
+
+const fileContents_nmtg_fm = readSourceFile(STRING_NMTG_PATH2);
+
 const fileContents_mdx = readSourceFile(STRING_NMTG_MDX_PATH);
 
 
@@ -40,8 +46,11 @@ const { data, content } = matter(fileContents);
 
 
 
-// console.log(matter(fileContents_mdx));
-console.log(matter(fileContents_nmtg).content);
+console.log(matter(fileContents_mdx));
+// console.log(matter(fileContents_nmtg).content);
+
+console.log(matter(fileContents_nmtg_fm).data.recipes);
+
 
 
 // console.log(
@@ -52,7 +61,7 @@ console.log(matter(fileContents_nmtg).content);
 
 // console.log(readSourceFile('./src/source.md'));
 
-
+// const file = matter.read('./content/blog-post.md');
 
 
 
