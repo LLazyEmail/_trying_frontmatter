@@ -28,7 +28,7 @@ const nmtg_first = () => {
   const STRING_NMTG_PATH = './source/01-source.md';  
   const fileContents_nmtg = readSourceFile(STRING_NMTG_PATH);
 
-  // console.log(matter(fileContents_nmtg).content);
+  console.log(matter(fileContents_nmtg).content);
 }
 
 const nmtg_front_matter = () => {
