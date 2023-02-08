@@ -1,12 +1,3 @@
-// import { unified } from 'unified';
-// import remarkParse from 'remark-parse';
-// import remarkGfm from 'remark-gfm';
-// import remarkRehype from 'remark-rehype';
-// import rehypeStringify from 'rehype-stringify';
-// import { visit } from 'unist-util-visit';
-// import remarkStringify from 'remark-stringify';
-// import { stream } from 'unified-stream';
-
 import matter from 'gray-matter';
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
@@ -49,6 +40,15 @@ const nmtg_mdx = () => {
 }
 
 
+const hn_mdx = () => {
+
+  const STRING_HN_MDX_PATH = './source/hn.mdx';  
+
+  const fileContents_hn_mdx = readSourceFile(STRING_HN_MDX_PATH);
+  console.log(matter(fileContents_hn_mdx));
+
+}
+
 simple();
 
 nmtg_first();
@@ -56,6 +56,8 @@ nmtg_first();
 nmtg_front_matter();
 
 nmtg_mdx();
+
+hn_mdx();
 
 // console.log(
 //   matter('---\ntitle: Front Matter\n---\nThis is content.')
